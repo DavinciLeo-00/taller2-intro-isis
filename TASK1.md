@@ -9,6 +9,7 @@ Links de la siguiente manera -> Links: [Texto del link](URL) ;
 Codigo al introducir "```" backsticks;
 Y enfasis como hacer el texto bold al utilizar "*" Ej: **bold**
 e italica con uno solo: *Italic* .
+Tambien cuanta con "blockquotes":">" y "horizontal rules": --- , ***
 
 Ahora, respecto a las licencias de codigo o software, estas sirven para regular el uso, modificación, distribución y comercialización del codigo y sulen caer en las categorias de Permisivas, Copyleft (Exigén mantener el codigo abierto) y Propietarias.
 
